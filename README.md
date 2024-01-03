@@ -1,14 +1,21 @@
-### Hi there 👋
+
 
 <!--
-**ryderhutchings/ryderhutchings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ryderhutchings/ryderhutchings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+# Hi there 👋
 
-- 🔭 I’m currently working on life ...
-- 🌱 I’m currently learning Java ...
-- 👯 I’m looking to collaborate on Tyrant SMP...
-- 🤔 I’m looking for help with C,C#,Python...
+My name is Ryder, and I'm a passionate semi-new programmer who loves to explore the world of coding. Here's a bit about me:
 
-- ⚡ Fun fact: I know HTML, CSS, JavaScript and have worked with them for 3 months
--->
+- 🚀 I have experience in:
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+  - Some Java and C
+
+- 🔭 I'm currently exploring new technologies and expanding my skill set.
+
+- 🌱 I'm always learning and open to new challenges.
+
+- 📫 How to reach me: <a href='https://www.youtube.com/@ryderhutchings'>@ryderhutchings</a>
