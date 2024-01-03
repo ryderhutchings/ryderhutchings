@@ -1,8 +1,4 @@
 
-
-<!--
-**ryderhutchings/ryderhutchings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 # Hi there 👋
 
 My name is Ryder, and I'm a passionate semi-new programmer who loves to explore the world of coding. Here's a bit about me:
@@ -19,3 +15,5 @@ My name is Ryder, and I'm a passionate semi-new programmer who loves to explore 
 - 🌱 I'm always learning and open to new challenges.
 
 - 📫 How to reach me: <a href='https://www.youtube.com/@ryderhutchings'>@ryderhutchings</a>
+
+<!--Your Reading My Boi Cool-->
