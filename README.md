@@ -1,19 +1,21 @@
+### About Me
+**Hey there! I'm Ryder Hutchings, 16 years old, and just figuring out this whole "README" thing.**
 
-# Hi there 👋
+I'm into **Mountain Biking**, **FPV Flying**, and basically all things technology-related, currently coding with **Python** and **HTML/CSS**. I also have a small background in several other languages like **C**.
 
-My name is Ryder, and I'm a passionate semi-new programmer who loves to explore the world of coding. Here's a bit about me:
+- Navigating high school, and trying to make the most of life.
+- Oh, and currently unemployed, but always on the lookout for new opportunities.
 
-- 🚀 I have experience in:
-  - Python
-  - HTML
-  - CSS
-  - JavaScript
-  - Some Java and C
+### Projects
 
-- 🔭 I'm currently exploring new technologies and expanding my skill set.
+- I'm building myself a PAAI (Personal Assistant AI). <br>
+**Note: It's not easy but it's fun!*
+- More projects will be coming soon!
 
-- 🌱 I'm always learning and open to new challenges.
+### Contact Me
+- Currently, the only way to get in touch with me is through my [YouTube Channel](https://www.youtube.com/@ryderhutchings), but speaking of which, here are my socials (I don't have many):
 
-- 📫 How to reach me: <a href='https://www.youtube.com/@ryderhutchings'>@ryderhutchings</a>
-
-<!--Your Reading My Boi Cool-->
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@ryderhutchings)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-9cf?style=flat&logo=github)](https://github.com/ryderhutchings)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]()
+[![My Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=flat&logo=website)]()
