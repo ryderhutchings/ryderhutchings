@@ -14,7 +14,6 @@ I'm into **Mountain Biking**, **FPV Flying**, and basically all things technolog
 - More projects will be coming soon!
 
 ### Contact Me
-- Currently, the only way to get in touch with me is through my [YouTube Channel](https://www.youtube.com/@ryderhutchings), but speaking of which, here are my socials (I don't have many):
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@ryderhutchings)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-9cf?style=flat&logo=github)](https://github.com/ryderhutchings)
