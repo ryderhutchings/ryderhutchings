@@ -8,8 +8,9 @@ I'm into **Mountain Biking**, **FPV Flying**, and basically all things technolog
 
 ### Projects
 
-- I'm building myself a PAAI (Personal Assistant AI). <br>
-**Note: It's not easy but it's fun!*
+- I'm building myself a Personal Assistant AI. <br>
+**Note**: It's not easy, but it's fun!
+
 - More projects will be coming soon!
 
 ### Contact Me
