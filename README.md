@@ -1,19 +1,19 @@
 ### About Me
-Hey there! I'm Ryder Hutchings, 16 years old, and just figuring out this whole "README" thing.
+Hey there! I'm Ryder Hutchings, 16 years old, and just figuring out this whole "**README**" thing.
 
-I'm into **Mountain Biking**, **FPV Flying**, and basically all things technology-related.
+I like outdoor stuff (e,g. **Mountain Biking**, **Hiking**, **Fishing** Ect,). And all things technology-related.
 
 - Navigating high school, and trying to make the most of life.
-- Oh, and currently unemployed.
-- I want to someday work in the field of Computer Science & Engineering.
+- Someday I want to work in Computer Science & Engineering.
+- Currently unemployed.
 
-### Programming With:
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Python)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Python](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br>
 
-<!-- ### Learning With -->
-<!-- [![Lua](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)]() -->
+### Working With:
+[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Python)
+[![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Lua](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)]()
+<!-- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) --> <br>
+
 
 I also have a small background in several other languages.
 
@@ -28,6 +28,7 @@ I also have a small background in several other languages.
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfYoumlckdDcox4TtxZiKtA)]() <br> -->
 
 ### Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=)]()
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ryderhutchings)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@ryderhutchings)
-[![My Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=flat&logo=website)]()
