@@ -19,9 +19,11 @@ I also have a small background in several other languages.
 
 ### Projects
 
-- I'm building myself an AI. <br>
+- I'm building myself an <a href="">AI<a/>. <br>
 
-- I'm building myself new Earbuds. <br>
+- I'm building myself new <a href="">Earbuds<a/>. <br>
+
+- I'm designing my own <a href="">Shoes<a/>. <br>
 - More projects will be coming soon!
 
 <!-- [![GitHub](https://img.shields.io/github/followers/ryderhutchings.svg?style=social&label=Follow&maxAge=2592000)]() <br>
