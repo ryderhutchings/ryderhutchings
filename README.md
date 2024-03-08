@@ -13,6 +13,8 @@ I like outdoor stuff (e,g. **Mountain Biking**, **Hiking**, **Fishing** Ect,). A
 [![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Lua](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)]()
 <!-- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) -->
+> [!WARNING]
+> Timeline (<a href="">2024 - 2025<a/>)
 
 ### Projects
 
@@ -22,7 +24,6 @@ I like outdoor stuff (e,g. **Mountain Biking**, **Hiking**, **Fishing** Ect,). A
 
 - I'm designing my own <a href="">Shoes<a/>. <br>
 
-- Planning Calendar (<a href="">2024 - 2025<a/>)
 - More projects will be coming soon!
 
 <!-- [![GitHub](https://img.shields.io/github/followers/ryderhutchings.svg?style=social&label=Follow&maxAge=2592000)]() <br>
