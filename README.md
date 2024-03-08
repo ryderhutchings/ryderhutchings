@@ -21,6 +21,8 @@ I like outdoor stuff (e,g. **Mountain Biking**, **Hiking**, **Fishing** Ect,). A
 - I'm building myself new <a href="">Earbuds<a/>. <br>
 
 - I'm designing my own <a href="">Shoes<a/>. <br>
+
+- Planning Calendar (<a href="">2024 - 2025<a/>)
 - More projects will be coming soon!
 
 <!-- [![GitHub](https://img.shields.io/github/followers/ryderhutchings.svg?style=social&label=Follow&maxAge=2592000)]() <br>
